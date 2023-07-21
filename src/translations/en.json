@@ -1,0 +1,40 @@
+
+
+
+
+
+{
+    "translation": {
+        "ex1": "Get In Touch",
+        "send": "Send Message",
+        "lang": "Français",
+        "information": "Contact Information",
+        "address":"223 Navan, Page, Canada",
+        "header": "I18n Demo",
+        "phone": "Phone:",
+        "num": "+1 243 245 2443",
+        "email":"E-mail:",
+        "em":"wagen203@gmail.com",
+        "follow":"Follow Us",
+        "placeholderName": "Your Name",
+        "placeholderEmail": "Email",
+        "placeholderMessage": "Message",
+        "help" :"Need Help?",
+        "helpnum":"+1 304-244-0607",
+        "log":"Login",
+        "reg":"Register",
+        "ca":"Canada",
+        "ad":"2878 Innes Road, Canada",
+        "day":"Monday to Saturday",
+        "hour":"09am - 5pm",
+        "ac":"Rent the car of your dreams",
+        "sen":"Explore the world with Wagen - your trusted companion for exceptional car rental experiences.",
+        "link":"Quick Links",
+        "off":"Head Office",
+        "offphone":"Phone: +1 243 245 2443",
+        "offtime":"Office Time: 09am - 5pm",
+        "new":"Newsletter",
+        "subs":"Subscribe our newsletter"
+
+    }
+}
