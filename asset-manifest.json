@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/WagenV2/static/css/main.c01c49b8.css",
+    "main.js": "/WagenV2/static/js/main.fd1ca257.js",
+    "static/media/remixicon.svg?t=1687271883607": "/WagenV2/static/media/remixicon.636515c9a8963df4380d.svg",
+    "static/media/Capture d’écran (222).png": "/WagenV2/static/media/Capture d’écran (222).4bfb1967d5ca08ec97ee.png",
+    "static/media/remixicon.eot?t=1687271883607": "/WagenV2/static/media/remixicon.83e9a22ce7f199999169.eot",
+    "static/media/remixicon.ttf?t=1687271883607": "/WagenV2/static/media/remixicon.0bcb16fc20c3d365da14.ttf",
+    "static/media/Lisa.png": "/WagenV2/static/media/Lisa.61a8a41cdd7438f2ea43.png",
+    "static/media/ava-1.jpg": "/WagenV2/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/WagenV2/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/homme2.png": "/WagenV2/static/media/homme2.5c92d6ea70116428ee23.png",
+    "static/media/ava-2.jpg": "/WagenV2/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/ava-4.jpg": "/WagenV2/static/media/ava-4.5f15524f7b3f80a834df.jpg",
+    "static/media/remixicon.woff?t=1687271883607": "/WagenV2/static/media/remixicon.3f0f84f17d39491e07ff.woff",
+    "static/media/homme1.png": "/WagenV2/static/media/homme1.967eec931576c333b83a.png",
+    "static/media/remixicon.woff2?t=1687271883607": "/WagenV2/static/media/remixicon.85992a032c7668836563.woff2",
+    "static/media/AdobeStock_357267140_Preview.jpeg": "/WagenV2/static/media/AdobeStock_357267140_Preview.097d424d271cb40dd492.jpeg",
+    "static/media/AdobeStock_603088506_Preview.jpeg": "/WagenV2/static/media/AdobeStock_603088506_Preview.e7a324351cfe9187f060.jpeg",
+    "static/media/AdobeStock_217569021_Preview.jpeg": "/WagenV2/static/media/AdobeStock_217569021_Preview.bf7e2682cfaddce5f70d.jpeg",
+    "static/media/Headshots — Mena Darré.jpg": "/WagenV2/static/media/Headshots — Mena Darré.648662409c63c2e45afa.jpg",
+    "static/media/AdobeStock_423232633_Preview_Editorial_Use_Only.jpeg": "/WagenV2/static/media/AdobeStock_423232633_Preview_Editorial_Use_Only.a336400032470dbd0aca.jpeg",
+    "static/media/AdobeStock_490339725_Preview_Editorial_Use_Only.jpeg": "/WagenV2/static/media/AdobeStock_490339725_Preview_Editorial_Use_Only.7067da9706939f0211ec.jpeg",
+    "static/media/AdobeStock_501474689_Preview_Editorial_Use_Only.jpeg": "/WagenV2/static/media/AdobeStock_501474689_Preview_Editorial_Use_Only.6bdbacc8518ac62422a5.jpeg",
+    "static/media/AdobeStock_501474689_Preview_Editorial_Use_Onlyabout.jpeg": "/WagenV2/static/media/AdobeStock_501474689_Preview_Editorial_Use_Onlyabout.bde315ff1d78bd8e499d.jpeg",
+    "static/media/AdobeStock_501670215_Preview_Editorial_Use_Only.jpeg": "/WagenV2/static/media/AdobeStock_501670215_Preview_Editorial_Use_Only.f6db85befd26a9b223a0.jpeg",
+    "static/media/AdobeStock_501843144_Preview_Editorial_Use_Only.jpeg": "/WagenV2/static/media/AdobeStock_501843144_Preview_Editorial_Use_Only.941fea32a8e577436d2c.jpeg",
+    "static/media/AdobeStock_228660820_Preview.jpeg": "/WagenV2/static/media/AdobeStock_228660820_Preview.bc7cbe9f8d6fa47c2fc6.jpeg",
+    "static/media/drive.jpg": "/WagenV2/static/media/drive.b72e6f2d1ccdbd6550a9.jpg",
+    "static/media/slick.svg": "/WagenV2/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/WagenV2/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/WagenV2/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/WagenV2/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/WagenV2/index.html",
+    "main.c01c49b8.css.map": "/WagenV2/static/css/main.c01c49b8.css.map",
+    "main.fd1ca257.js.map": "/WagenV2/static/js/main.fd1ca257.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c01c49b8.css",
+    "static/js/main.fd1ca257.js"
+  ]
+}
